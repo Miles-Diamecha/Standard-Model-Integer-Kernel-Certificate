@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "scheme": "MS",
+    "scale": "MZ",
+    "notes": "Hats at MZ in MS; SI pins for alphaG_pp"
+  },
+  "pins": {
+    "alpha_s_MZ": 0.118,
+    "inv_alpha_MZ": 127.955,
+    "sin2_thetaW_MZ": 0.23129,
+    "G_N_SI": 6.6743e-11,
+    "m_p_SI_kg": 1.67262192369e-27,
+    "hbar_SI_Js": 1.054571817e-34,
+    "c_SI_mps": 299792458.0
+  },
+  "projector": {
+    "chi": [16, 13, 2]
+  }
+}
